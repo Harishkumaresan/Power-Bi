@@ -33,3 +33,5 @@ Step 6: Deploy and Share Publish the Dashboard: Publish the dashboard to the Pow
 Step 7: Provide Training and Support Training Sessions: Conduct training sessions to help users understand how to navigate and use the dashboard effectively. Documentation: Create user manuals or documentation that explains the features and functionalities of the dashboard. Ongoing Support: Offer ongoing support to address any issues or questions that users may have.
 
 Step 8: Monitor and Update Monitor Usage: Track how users interact with the dashboard and gather feedback for continuous improvement. Update Data: Regularly update the dashboard with new data to ensure it remains current and relevant. Enhance Features: Periodically review and enhance the dashboard based on user feedback and evolving needs.
+
+![ABC institute report_page-0001 (1)](https://github.com/Harishkumaresan/Power-Bi/assets/98086641/83afcb40-e09c-42d3-aed7-c385edfbd69f)
